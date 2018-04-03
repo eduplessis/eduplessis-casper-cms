@@ -1,4 +1,7 @@
-// JS Goes here - ES6 supported
+alert('test');
+
+
+
 
 if (window.netlifyIdentity) {
   window.netlifyIdentity.on("init", user => {
