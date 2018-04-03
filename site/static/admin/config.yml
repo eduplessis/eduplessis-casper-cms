@@ -1,7 +1,5 @@
 backend:
-  name: github
-  repo: eduplessis/eduplessis-casper-cms # Path to your Github repository
-  branch: master # Branch to update (master by default)
+  name: git-gateway
 
 publish_mode: editorial_workflow
 
