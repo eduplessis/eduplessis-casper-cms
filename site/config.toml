@@ -13,17 +13,17 @@ canonifyurls = true
   description = ""
   cover = "images/cover.jpg"
   author = "Edouard Duplessis"
-  authorlocation = "McMasterville, Canada"
+  # authorlocation = "McMasterville, Canada"
   authorwebsite = "http://eduplessis.com"
   bio= ""
   logo = "images/logo.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = "http://feeds.feedburner.com/..."
+  # RSSLink = "http://feeds.feedburner.com/..."
   githubName = "eduplessis"
   twitterName = "eduplessis"
   # facebookName = ""
-  # linkedinName = ""
+  linkedinName = "eduplessis"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = true
   customFooterPartial = "footer.html"
